@@ -80,7 +80,9 @@ Pengujian pengukuran dilakukan dengan membandingkan hasil prototipe dengan tensi
 
 Persentase kesalahan pengukuran dihitung menggunakan rumus:
 
-Rumus perhitungan akurasi: $\text{Error } (\%) = \frac{|\text{Nilai Prototipe} - \text{Nilai Referensi}|}{\text{Nilai Referensi}} \times 100\%$
+Rumus perhitungan akurasi:$$
+\text{Error } (\%) = \frac{|\text{Nilai Prototipe} - \text{Nilai Referensi}|}{\text{Nilai Referensi}} \times 100\%
+$$
 
 Hasil evaluasi digunakan untuk mengetahui perbedaan pengukuran antara prototipe dan alat pembanding.
 
